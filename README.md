@@ -1,6 +1,6 @@
 # 🖨️ PrintShop – Campus Bulk Order & Queue Manager
 
-![PrintShop Banner](sandbox:/mnt/data/65cf3485-524c-47e6-b5b3-135a1480fd58.png)
+![PrintShop Banner](image.png)
 
 ---
 
