@@ -1,9 +1,5 @@
 # 🖨️ PrintShop – Campus Bulk Order & Queue Manager
 
-![PrintShop Banner](C:\Users\saach\OneDrive\Pictures\Screenshots.png)
-
----
-
 ## 🚀 Overview
 PrintShop is a smart web-based platform designed to simplify bulk printing in college environments. It eliminates long queues, manual coordination, and payment confusion by providing a centralized system for order management, payments, and real-time tracking.
 
