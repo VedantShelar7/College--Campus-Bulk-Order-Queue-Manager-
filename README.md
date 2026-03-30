@@ -1,6 +1,6 @@
 # 🖨️ PrintShop – Campus Bulk Order & Queue Manager
 
-![PrintShop Banner](image.png)
+![PrintShop Banner](C:\Users\saach\OneDrive\Pictures\Screenshots.png)
 
 ---
 
